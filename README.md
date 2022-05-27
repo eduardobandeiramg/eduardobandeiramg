@@ -8,6 +8,10 @@ My name is Eduardo and I'm a software engineering student.
 - 👯 I’m looking to collaborate on mobile projects
 - 📫 How to reach me: eduardobandeiramg@gmail.com
 
+<div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/eduardobandeiramg/" target="_blank"><img align="center" alt="GIT" height="30" width="40" src="src/contato/linkedin.png" target="_blank"></a> 
+</div>
+
 </br>
 </br>
 
