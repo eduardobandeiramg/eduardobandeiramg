@@ -10,8 +10,13 @@ My name is Eduardo and I'm a software engineering student.
 
 <div style="display: inline_block"><br>
     <a href="mailto:eduardobandeiramg@gmail.com" target="_blank"><img align="center" alt="gmail" height="30" width="40" src="src/contato/gmail-logo-16.png"></a> 
-    </br>
+    
+    
+    
     <a href="https://www.linkedin.com/in/eduardobandeiramg/" target="_blank"><img align="center" alt="linkedin" height="30" width="40" src="src/contato/linkedin.png" target="_blank"></a> 
+    
+    
+    
     <a href="https://www.instagram.com/eduardobandeiramg/" target="_blank"><img align="center" alt="instagram" height="30" width="40" src="src/contato/Instagram-Icon.png" target="_blank"></a> 
   
 </div>
