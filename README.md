@@ -14,7 +14,6 @@ My name is Eduardo and I'm a software engineering student.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobandeiramg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
-  
+
+
+https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg
