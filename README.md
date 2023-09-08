@@ -24,17 +24,13 @@ My name is Eduardo and I'm a software engineering student.
 
 <center>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Apple" height="50" width="50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
-    <img align="center" alt="Android" height="50" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-    <br>
+    <img align="center" alt="Apple" height="50" width="50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">        <img align="center" alt="Android" height="50" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
     <img align="center" alt="Dart" height="50" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg">
     <img align="center" alt="Flutter" height="50" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
     <img align="center" alt="Swift" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg">
     <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-    <br>
     <img align="center" alt="GitHub" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img align="center" alt="GIT" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-    <br>
     <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Postgresql" height="50" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 
