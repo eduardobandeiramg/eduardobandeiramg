@@ -22,7 +22,7 @@ My name is Eduardo and I'm a software engineering student.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobandeiramg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<center>
 <div style="display: inline_block"><br>
     <img align="center" alt="Apple" height="50" width="50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
     <img align="center" alt="Android" height="50" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
@@ -36,4 +36,5 @@ My name is Eduardo and I'm a software engineering student.
     <img align="center" alt="Postgresql" height="50" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 
 </div>
+</center>
 
