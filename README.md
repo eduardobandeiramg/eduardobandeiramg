@@ -26,7 +26,7 @@ https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-orig
 
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Apple" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+    <img align="center" alt="Apple" height="50" width="50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
     <img align="center" alt="Android" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
     <img align="center" alt="Dart" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg">
     <img align="center" alt="Flutter" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
