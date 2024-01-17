@@ -3,7 +3,7 @@
 My name is Eduardo and I'm a software engineering student and a flutter developer. 
 
 
-- 🔭 I’m currently working on some personal mobile project
+- 🔭 I’m currently working on 2 personal mobile project
 - 🌱 I’m currently learning more about mobile development, project management and UX/UI
 - 🧑‍🎓 Looking forward to start studying about data analytics, cybersecurity and business
 - 📫 How to reach me: eduardobandeiramg@gmail.com
