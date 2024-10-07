@@ -23,6 +23,7 @@ My name is Eduardo and I'm a Software Engineering student and a Flutter develope
 ### Secondary Skills:
 * Swift for iOS
 * Java & Spring
+* Python
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardobandeiramg&show_icons=true&count_private=true&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
 
