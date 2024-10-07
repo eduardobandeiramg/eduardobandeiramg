@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-My name is Eduardo and I'm a software engineering student and a flutter developer. 
+My name is Eduardo and I'm a Software Engineering student and a Flutter developer. 
 
-
-- 🔭 I’m currently working on 2 personal mobile projects
-- 🌱 I’m currently learning more about mobile development, project management and UX/UI
-- 🧑‍🎓 Looking forward to start studying about data analytics, cybersecurity and business
+- 🔭 I’m currently working on a personal mobile project
+- 📚 I’m currently learning more about project management, cybersecurity, software maintaining and software measuring
+- 👨🏻‍🎓 Currently finishing my graduation and writing my thesis
 - 📫 How to reach me: eduardobandeiramg@gmail.com
 
 <div style="display: inline_block"><br>
@@ -14,7 +13,6 @@ My name is Eduardo and I'm a software engineering student and a flutter develope
     <a href="https://www.instagram.com/eduardobandeiramg/" target="_blank"><img align="center" alt="instagram" height="30" width="40" src="src/contato/Instagram-Icon.png" target="_blank"></a> 
 </div>
 
-</br>
 </br>
 
 ### Main Skills:
