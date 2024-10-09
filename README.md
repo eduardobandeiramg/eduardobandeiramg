@@ -18,7 +18,7 @@ My name is Eduardo and I'm a Software Engineering student and a Flutter develope
 ### Main Skills:
 * Dart/Flutter
 * Firebase & Google Cloud
-* SQL/NoSQL databases
+* SQL & NoSQL databases
 
 ### Secondary Skills:
 * Swift for iOS
