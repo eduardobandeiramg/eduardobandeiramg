@@ -2,9 +2,9 @@
 
 My name is Eduardo and I'm a Software Engineering student and a mid-senior Flutter developer.
 
-I'm from Belo Horizonte, State of Minas Gerais, Brazil.
-
 Right now, I'm working on a confidential project to be launched soon, in partnership with partners 🔭 and also pursuing a postgraduate degree in Project Management and an MBA in Business Management 📚
+
+I'm from Belo Horizonte, State of Minas Gerais, Brazil.
 
 ### Some of my mobile projects:
 
