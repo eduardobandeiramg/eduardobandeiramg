@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Eduardo and I'm a Software Engineering student and a Flutter developer.
+My name is Eduardo and I'm a Software Engineering student and a mid-senior Flutter developer.
 
 ### Some of my mobile projects:
 
@@ -9,10 +9,12 @@ My name is Eduardo and I'm a Software Engineering student and a Flutter develope
 * [Skill Playground](https://github.com/eduardobandeiramg/skill-playground)
 * [MRP](lala)
 
+
+
   
-- 🔭 I'm currently working on a confidential project to be launched soon, in partnership with partners
-- 📚 I'm currently pursuing a postgraduate degree in Project Management and an MBA in Business Management
-- 📫 How to reach me: eduardobandeiramg@gmail.com
+🔭 I'm currently working on a confidential project to be launched soon, in partnership with partners
+📚 I'm currently pursuing a postgraduate degree in Project Management and an MBA in Business Management
+📫 How to reach me: eduardobandeiramg@gmail.com
 
 <div style="display: inline_block"><br>
     <a href="mailto:eduardobandeiramg@gmail.com" target="_blank"><img align="center" alt="gmail" height="30" width="40" src="src/contato/gmail-logo-16.png"></a> 
