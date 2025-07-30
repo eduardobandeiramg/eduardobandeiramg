@@ -11,7 +11,7 @@ Right now, I'm working on a confidential project to be launched soon, in partner
 * [Squad Planner](https://0pmi4.app.link/squadplanner)
 * [Nex-Task](https://github.com/eduardobandeiramg/nex-task)
 * [Skill Playground](https://github.com/eduardobandeiramg/skill-playground)
-* [MRP](lala)  
+* [MRP](https://github.com/eduardobandeiramg/mrp)
 
 ### How to reach me:
 
