@@ -1,10 +1,17 @@
 ### Hi there 👋
 
-My name is Eduardo and I'm a Software Engineering student and a Flutter developer. 
+My name is Eduardo and I'm a Software Engineering student and a Flutter developer.
 
-- 🔭 I’m currently working on a personal mobile project
-- 📚 I’m currently learning more about project management, cybersecurity, software maintaining and software measuring
-- 👨🏻‍🎓 Currently finishing my graduation and writing my thesis
+### Some of my mobile projects:
+
+* [Squad Planner](https://0pmi4.app.link/squadplanner)
+* [Nex-Task](https://github.com/eduardobandeiramg/nex-task)
+* [Skill Playground](https://github.com/eduardobandeiramg/skill-playground)
+* [MRP](lala)
+
+  
+- 🔭 I'm currently working on a confidential project to be launched soon, in partnership with partners
+- 📚 I'm currently pursuing a postgraduate degree in Project Management and an MBA in Business Management
 - 📫 How to reach me: eduardobandeiramg@gmail.com
 
 <div style="display: inline_block"><br>
@@ -16,7 +23,7 @@ My name is Eduardo and I'm a Software Engineering student and a Flutter develope
 </br>
 
 ### Main Skills:
-* Dart/Flutter
+* Dart/Flutter/Node.js
 * Firebase & Google Cloud
 * SQL & NoSQL databases
 
