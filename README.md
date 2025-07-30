@@ -13,6 +13,8 @@ Right now, I'm working on a confidential project to be launched soon, in partner
 * [Skill Playground](https://github.com/eduardobandeiramg/skill-playground)
 * [MRP](lala)  
 
+### How to reach me:
+
 <div style="display: inline_block"><br>
     <a href="mailto:eduardobandeiramg@gmail.com" target="_blank"><img align="center" alt="gmail" height="30" width="40" src="src/contato/gmail-logo-16.png"></a> 
     <a href="https://www.linkedin.com/in/eduardobandeiramg/" target="_blank"><img align="center" alt="linkedin" height="30" width="40" src="src/contato/linkedin.png" target="_blank"></a> 
