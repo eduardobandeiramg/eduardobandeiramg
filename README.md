@@ -2,19 +2,16 @@
 
 My name is Eduardo and I'm a Software Engineering student and a mid-senior Flutter developer.
 
+I'm from Belo Horizonte, State of Minas Gerais, Brazil.
+
+Right now, I'm working on a confidential project to be launched soon, in partnership with partners 🔭 and also pursuing a postgraduate degree in Project Management and an MBA in Business Management 📚
+
 ### Some of my mobile projects:
 
 * [Squad Planner](https://0pmi4.app.link/squadplanner)
 * [Nex-Task](https://github.com/eduardobandeiramg/nex-task)
 * [Skill Playground](https://github.com/eduardobandeiramg/skill-playground)
-* [MRP](lala)
-
-
-
-  
-🔭 I'm currently working on a confidential project to be launched soon, in partnership with partners
-📚 I'm currently pursuing a postgraduate degree in Project Management and an MBA in Business Management
-📫 How to reach me: eduardobandeiramg@gmail.com
+* [MRP](lala)  
 
 <div style="display: inline_block"><br>
     <a href="mailto:eduardobandeiramg@gmail.com" target="_blank"><img align="center" alt="gmail" height="30" width="40" src="src/contato/gmail-logo-16.png"></a> 
