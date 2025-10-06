@@ -13,6 +13,10 @@ I'm from Belo Horizonte, State of Minas Gerais, Brazil.
 * [MRP](https://github.com/eduardobandeiramg/mrp)
 * [Skill Playground](https://github.com/eduardobandeiramg/skill-playground)
 
+### Some school projects I had fun doing:
+* [Algorithms Projects and Analysis](https://github.com/eduardobandeiramg/trabalhos-fpaa) -> Development of some classic algorithms using Python
+* [GitHub Data Scraping using it's GraphQL API with Python](https://github.com/eduardobandeiramg/laboratorio-de-experimentacao-de-software)
+
 ### How to reach me:
 
 <div style="display: inline_block"><br>
