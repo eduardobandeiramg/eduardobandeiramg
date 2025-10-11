@@ -16,6 +16,7 @@ I'm from Belo Horizonte, State of Minas Gerais, Brazil.
 ### Some school projects I had fun doing:
 * [Algorithms Projects and Analysis](https://github.com/eduardobandeiramg/trabalhos-fpaa) -> Development of some classic algorithms using Python
 * [GitHub Data Scraping using it's GraphQL API with Python](https://github.com/eduardobandeiramg/laboratorio-de-experimentacao-de-software) -> GitHub data collection and analysis of it's main repositories (most starred ones)
+* [Analysis of US airport network using concepts of complex networks and graphs](https://github.com/eduardobandeiramg/complex-networks-study)
 
 ### How to reach me:
 
